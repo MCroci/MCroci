@@ -2,7 +2,7 @@
 
 ## I'm a PhD Student at Doctoral School on the Agro-Food System 🌱🛰
 - 🔭 I’m currently working on Remote sensing for the AgriFood4.0
-- 🌱 I’m currently learning Google Earth Engine
+- 🌱 I’m currently learning Google Earth Engine 🌎
 - 👯 I’m looking to collaborate on Remote sensing and Crop Modelling
 - 📫 How to reach me: michele.croci@unicatt.it
 - ⚡ Fun fact: I'm tall, but I'm not good at basketball.
