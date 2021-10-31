@@ -7,14 +7,13 @@
 - 📫 How to reach me: michele.croci@unicatt.it
 - ⚡ Fun fact: I'm tall, but I'm not good at basketball.
 
-## Connect with me:
-🔗
+## Connect with me: 
 [<img align="left" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Croci93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Croci93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Croci93 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Croci93 | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][Researchgate]
-
+     ..
 ## Watch my first shinyapp:
 [<img align="left" alt="Croci93 | RStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg" />][RStudio]
 
