@@ -13,6 +13,7 @@
 [<img align="left" alt="Croci93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Croci93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Croci93 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Croci93 | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][Researchgate]
 
 ## Watch my first shinyapp:
 [<img align="left" alt="Croci93 | RStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg" />][RStudio]
@@ -24,6 +25,7 @@
 [linkedin]: https://www.linkedin.com/in/michele-croci-265abb133/
 [RStudio]: https://croci93.shinyapps.io/prosail_UCSCFieldCropsGroup/
 [Facebook]: https://www.facebook.com/michele.croci.7330
+[Researchgate]: https://www.researchgate.net/profile/Michele-Croci
 
 
 
