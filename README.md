@@ -1,6 +1,6 @@
 #  Hi there 👋, I'm Michele Croci - aka ✨Croci93
 
-## I'm a PhD Student at Doctoral School on the Agro-Food System 🌱🛰
+## I'm a Student at Doctoral School on the Agro-Food System 🌱🛰
 - 🔭 I’m currently working on Remote sensing for the AgriFood4.0
 - 🌱 I’m currently learning Google Earth Engine 🌎
 - 👯 I’m looking to collaborate on Remote sensing and Crop Modelling
