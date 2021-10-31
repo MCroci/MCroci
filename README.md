@@ -1,4 +1,4 @@
-#  Hi there 👋, I'm Michele Croci - aka ✨Croci93
+#  Hi there 👋, I'm Michele Croci - aka Croci93
 
 ## I'm a Student at Doctoral School on the Agro-Food System 🌱🛰
 - 🔭 I’m currently working on Remote sensing for the AgriFood4.0
