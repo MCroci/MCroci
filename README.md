@@ -1,6 +1,6 @@
-##  Hi there 👋, I'm Michele Croci - aka Croci93
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Michele Croci - aka Croci93</h2>
+<h3>I'm a Student at Doctoral School on the Agro-Food System 🌱🛰</h3>
 
-### I'm a Student at Doctoral School on the Agro-Food System 🌱🛰
 - 🔭 I’m currently working on Remote sensing for the AgriFood4.0
 - 🌱 I’m currently learning Google Earth Engine 🌎
 - 👯 I’m looking to collaborate on Remote sensing and Crop Modelling
@@ -34,5 +34,5 @@
 [Researchgate]: https://www.researchgate.net/profile/Michele-Croci
 [Website]: https://www.MCroci.github.io
 
-
-
+## GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcroci&show_icons=true&theme=react&count_private=true" alt="mcroc" /></p>
