@@ -19,6 +19,10 @@
 [<img align="left" alt="Croci93 | RStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg" />][RStudio]
 
 
+### Software: 
+[<img align="left" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />]
+[<img align="left" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />]
+
 
 [twitter]: https://twitter.com/croci93
 [instagram]: https://instagram.com/michele.croci
