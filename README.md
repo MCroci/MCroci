@@ -1,5 +1,7 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Michele Croci - aka Croci93</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Michele Croci - aka Croci93<img src="https://media1.giphy.com/media/l378AbkccL88mcB7W/giphy.gif" width="45px"></h2>
 <h3>I'm a Student at Doctoral School on the Agro-Food System 🌱🛰</h3>
+
+
 
 - 🔭 I’m currently working on Remote sensing for the AgriFood4.0
 - 🌱 I’m currently learning Google Earth Engine 🌎
