@@ -38,15 +38,3 @@
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcroci&show_icons=true&theme=react&count_private=true" alt="mcroc" /></p>
-
-
-
-## Example of displaying htmlwidgets on a Github pages site
-
-```{r}
-# Source: http://www.htmlwidgets.org/showcase_plotly.html
-library(plotly)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
-```
