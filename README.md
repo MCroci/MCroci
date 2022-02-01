@@ -3,7 +3,7 @@
 
 
 - 🌱 I'm an Agronomist
-- 🔭 I’m currently working on Remote sensing for the AgriFood Sector
+- 🔭 I’m currently working on "Remote sensing for the AgriFood Sector"
 - 🌎 I’m currently learning Google Earth Engine
 - 👯 I’m looking to collaborate on Remote sensing and Crop Modelling
 - 📫 How to reach me: michele.croci@unicatt.it
