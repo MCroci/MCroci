@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Michele Croci - aka Croci93</h2>
-<h3>I'm a Student at Doctoral School on the Agro-Food System 🛰</h3>
+<h3 align="center">I'm a Student at Doctoral School on the Agro-Food System 🛰</h3>
 
 
 - 🌱 I'm an Agronomist
@@ -18,7 +18,7 @@
 [<img align="left" alt="Croci93 | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg" />][Website]
      ..
 
-### Watch my first shinyapp:
+### PROSAIL Shiny app:
 [<img align="left" alt="Croci93 | RStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg" />][RStudio]
      ..
 
