@@ -9,7 +9,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Seedling.png" alt="Seedling" width="25" height="25" /> About Me
 
-* 🇮🇹 Agronomist based in Piacenza, Italy. Currently pursuing a PhD at Università Cattolica del Sacro Cuore.
+* 🇮🇹 Agronomist based in Piacenza, Italy. Currently Researcher at Università Cattolica del Sacro Cuore.
 * 🔭 My research focuses on **developing and applying Remote Sensing techniques (UAV & Satellite)** for crop monitoring, phenotyping, and yield prediction.
 * 🌍 Exploring and utilizing **Google Earth Engine** for large-scale geospatial analysis in agriculture.
 * 🌱 Keen interest in **Crop Simulation Models** and their integration with remote sensing data.
