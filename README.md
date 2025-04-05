@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <h1> Hi there! I'm Michele Croci 👋 </h1>
-  <p><em>PhD Candidate & Agronomist passionate about leveraging Remote Sensing, Crop Modelling, and Data Science for sustainable agriculture and the AgriFood sector.</em></p>
+  <p><em>Researcher and Agronomist passionate about leveraging Remote Sensing, Crop Modelling, and Data Science for sustainable agriculture and the AgriFood sector.</em></p>
   <p><code>Michele Croci / MCroci</code></p>
 </div>
 
