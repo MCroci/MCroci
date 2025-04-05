@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
     *(Satellite/UAV image processing, spatial analysis)*
 * **Modelling:** Experience with crop models like **PROSAIL**.
-* **Other:** Git, Markdown, Shiny Apps.
+* **Other:** Markdown, Shiny Apps.
 
 ---
 
