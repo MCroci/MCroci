@@ -62,9 +62,6 @@
     * <a href="https://ucscremotesensing.shinyapps.io/POSITIVE_CRAST/" target="_blank">
         <img src="https://img.shields.io/badge/Launch%20App-%2375AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="Launch PROSAIL App"/>
         </a>
-* [*Add another featured project here - e.g., a key repository or contribution*]
-* [*And another one...*]
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
