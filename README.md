@@ -29,7 +29,6 @@
 Sono **Responsabile Scientifico** e di attività in importanti progetti competitivi, nazionali e internazionali, che guidano l'innovazione in agricoltura:
 
 ### 🇪🇺 Progetti Europei (Horizon Europe, BBI JU)
-Responsabile di attività per UCSC in:
 - **ClieNFarms** (neutralità climatica)
 - **Value4Farm** (energie rinnovabili)
 - **MARVIC** (monitoraggio del carbonio)
